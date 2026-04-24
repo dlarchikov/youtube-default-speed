@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- YouTube red rounded rectangle -->
+  <rect x="8" y="16" width="112" height="80" rx="16" ry="16" fill="#FF0000"/>
+  
+  <!-- White play triangle -->
+  <polygon points="52,40 52,88 92,64" fill="#FFFFFF"/>
+  
+  <!-- Full-height speedometer needle - black, tapered (wider at base) -->
+  <polygon points="40,18 48,96 80,96" fill="#1A1A1A" transform="rotate(-7, 64, 96)"/>
+  
+  <!-- Speedometer center dot -->
+  <circle cx="64" cy="96" r="6" fill="#FFFFFF"/>
+</svg>
