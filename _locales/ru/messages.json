@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "YouTube Default Speed"
+  },
+  "appDescription": {
+    "message": "Автоматически применяет вашу скорость воспроизведения на YouTube — установите один раз, и она сохраняется навсегда для всех видео и сессий."
+  },
+  "popupHeader": {
+    "message": "Скорость YouTube"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "YouTube Default Speed"
+  },
+  "appDescription": {
+    "message": "Automatically applies your preferred playback speed on YouTube — set it once and it sticks forever across all videos and sessions."
+  },
+  "popupHeader": {
+    "message": "YouTube Speed"
+  }
+}
